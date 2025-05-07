@@ -1,9 +1,9 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
-      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-    </a>
-  <br />
+ 
+
+  <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
+   
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
@@ -49,9 +49,4 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
 # Cab-Booking
